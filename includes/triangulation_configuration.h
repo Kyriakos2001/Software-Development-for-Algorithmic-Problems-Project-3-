@@ -1,0 +1,9 @@
+#pragma once
+
+// #define MAX_ITERATIONS 10
+
+#define ALLOW_POINTS_ON_BOUNDARY true
+
+#define ENABLE_RANDOMIZATION_METHOD true
+
+#define RANDOMIZATION_RETRIES 10
